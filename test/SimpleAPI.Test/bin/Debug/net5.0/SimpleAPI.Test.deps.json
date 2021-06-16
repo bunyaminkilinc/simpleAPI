@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "SimpleAPI.Test/1.0.0": {
+      "simpleapi.test/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "coverlet.collector": "3.0.2",
@@ -15,7 +15,7 @@
           "xunit.runner.visualstudio": "2.4.3"
         },
         "runtime": {
-          "SimpleAPI.Test.dll": {}
+          "simpleapi.test.dll": {}
         }
       },
       "coverlet.collector/3.0.2": {},
@@ -1148,7 +1148,7 @@
     }
   },
   "libraries": {
-    "SimpleAPI.Test/1.0.0": {
+    "simpleapi.test/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

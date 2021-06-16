@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkilinc\\desktop\\vscode\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj": {}
+    "C:\\Users\\bkilinc\\Desktop\\sil\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkilinc\\desktop\\vscode\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj": {
+    "C:\\Users\\bkilinc\\Desktop\\sil\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkilinc\\desktop\\vscode\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj",
+        "projectUniqueName": "C:\\Users\\bkilinc\\Desktop\\sil\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj",
         "projectName": "simpleapi",
-        "projectPath": "C:\\Users\\bkilinc\\desktop\\vscode\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj",
+        "projectPath": "C:\\Users\\bkilinc\\Desktop\\sil\\SimpleAPISln\\src\\simpleapi\\simpleapi.csproj",
         "packagesPath": "C:\\Users\\bkilinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkilinc\\desktop\\vscode\\SimpleAPISln\\src\\simpleapi\\obj\\",
+        "outputPath": "C:\\Users\\bkilinc\\Desktop\\sil\\SimpleAPISln\\src\\simpleapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
